@@ -1,2 +1,2 @@
-# veriyapilari-diziler-
+# Arrays-DataStructures
 Dizilerdeki tek ve çift elemanlarin ortalaması 
